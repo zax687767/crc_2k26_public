@@ -1,7 +1,7 @@
 # demo_secret_scanning.py
 # UWAGA: To jest FAŁSZYWY token używany WYŁĄCZNIE do demo secret scanningu
 
-GITHUB_TOKEN = "ghp_8FJ3kLQm7P2ZxR4A9CwE0YbTn6UDe5Hs"
+GITHUB_TOKEN = "github_pat_11AA22BB33CC44DD55EE66FF77GG88HH99II00JJ"
 
 def main():
     print("Hello from secret scanning demo!")
